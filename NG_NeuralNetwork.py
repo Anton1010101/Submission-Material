@@ -1,9 +1,3 @@
-# Neural Gas
-# Two-spiral problem (length is 5 * pi) with depth!
-# Mini-batch mechanism included
-
-# ----------------------------------------------------- Changes / Imports -----------------------------------------------------
-
 import numpy as np
 import matplotlib.pyplot as plt
 import time
