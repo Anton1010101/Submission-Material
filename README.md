@@ -1,3 +1,4 @@
+# Dependencies:
 The system requirements for the software to be executed are as follows:
 
 Python 3.11.3.
@@ -12,5 +13,9 @@ To ensure the availability of necessary packages, it is recommended to have 'pip
 
 pip install numpy
 
-
 pip install matplotlib
+
+
+# Usage:
+### Neural Gas Network:
+The Python script "NG_NeuralNetwork.py" is a demonstration of a neural gas network, introduced by Thomas Martinetz and Klaus Schulten in 1991.
