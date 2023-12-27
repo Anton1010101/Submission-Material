@@ -1,12 +1,3 @@
-'''
-One hidden layer with 256 activation neurons and one output neuron
-Least squares error solution applied for training
-4096 samples
-Average best accuracy after training with degree of noise being 0.25: >98.5%
-Two-spiral problem (length is 5 * pi)
-'''
-# ----------------------------------------------------- Changes / Imports -----------------------------------------------------
-
 import numpy as np
 import matplotlib.pyplot as plt
 import time
